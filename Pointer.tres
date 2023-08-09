@@ -1,0 +1,17 @@
+[gd_resource type="Animation" format=2]
+
+[resource]
+resource_name = "Pointer"
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("Sketchfab_model/9cbc97f5707b47ed9cf8d663296c6c1efbx/Object_2/RootNode/Armature001/Object_6/Skeleton/pointer:translation")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 0.5, 1 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Vector3( -0.841632, 234.639, 6.76242 ), Vector3( -0.842, 224.327, 6.762 ), Vector3( -0.842, 234.639, 6.762 ) ]
+}
